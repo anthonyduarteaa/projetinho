@@ -1,0 +1,15 @@
+.logosite{
+    height: 300px;
+    display: flexbox;
+    place-items: center;
+}
+.t1{
+    font-family: inherit, Arial, Helvetica, sans-serif;
+}
+.b1{
+    font-size: larger;
+}
+body{
+    background-color: black;
+    color: white;
+}
